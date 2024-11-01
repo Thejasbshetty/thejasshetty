@@ -6,6 +6,12 @@
 		"url": "https://github.com/Thejasbshetty/SyncWave"
 	},
 	{
+		"name": "WellNest",
+		"description": "A platform designed to improve mental health by offering daily mood tracking, journaling, psychiatrist connections, and personalized recommendations.",
+		"image": "/assets/images/projects/WellNest.jpeg",
+		"url": "https://github.com/UthpalSuvarna/codemeet24.git"
+	},
+	{
 		"name": "Todo",
 		"description": "Todo Application Build using Reactjs Expressjs and mongoDB.",
 		"image": "/assets/images/projects/Todos.png",
@@ -28,11 +34,5 @@
 		"description": "Tic-Tac-Toe game built using HTML,CSS and Javascript.",
 		"image": "/assets/images/projects/Tic-Tac-Toe.png",
 		"url": "https://github.com/Thejasbshetty/Tic-Tac-Toe"
-	},
-	{
-		"name": "Visual Explorer",
-		"description": "ImageExplore is a responsive web app that lets users discover and search stunning visuals from Unsplash. With a clean interface, users can explore a curated collection of high-quality images. Built with HTML, CSS, and JavaScript, ImageExplore offers an immersive visual experience.",
-		"image": "/assets/images/projects/Visual-Explorer.png",
-		"url": "https://github.com/Thejasbshetty/visual-explorer"
 	}
 ]
