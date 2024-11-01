@@ -1,38 +1,38 @@
 [
 	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
-		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
+		"name": "SyncWave",
+		"description": "Project Management tool Build using Nextjs.",
+		"image": "/assets/images/projects/SyncWave.png",
+		"url": "https://github.com/Thejasbshetty/SyncWave"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"name": "Todo",
+		"description": "Todo Application Build using Reactjs Expressjs and mongoDB.",
+		"image": "/assets/images/projects/Todos.png",
+		"url": "https://github.com/Thejasbshetty/Todos-mern"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"name": "Empolyee Management System",
+		"description": "Employee Management System Build using Reactjs Expressjs and MySQL.",
+		"image": "/assets/images/projects/EMS.png",
+		"url": "https://github.com/Thejasbshetty/EMS"
 	},
 	{
-		"name": "Sink",
-		"description": "A Simple / Speedy / Secure Link Shortener with Analytics.",
-		"image": "/assets/images/projects/sink.cool.png",
-		"url": "https://sink.cool"
+		"name": "GitInfo",
+		"description": "GitInfo is a front-end website built using React.js that contains Git commands.",
+		"image": "/assets/images/projects/gitinfo.png",
+		"url": "https://github.com/Thejasbshetty/GitInfo"
 	},
 	{
-		"name": "BroadcastChannel",
-		"description": "Turn your Telegram Channel into a MicroBlog.",
-		"image": "/assets/images/projects/broadcast-channel.png",
-		"url": "https://github.com/ccbikai/BroadcastChannel"
+		"name": "Tic-Tac-Toe",
+		"description": "Tic-Tac-Toe game built using HTML,CSS and Javascript.",
+		"image": "/assets/images/projects/Tic-Tac-Toe.png",
+		"url": "https://github.com/Thejasbshetty/Tic-Tac-Toe"
 	},
 	{
-		"name": "L(O*62).ONG",
-		"description": "Make your URL looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonger",
-		"image": "/assets/images/projects/long.png",
-		"url": "https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong"
+		"name": "Visual Explorer",
+		"description": "ImageExplore is a responsive web app that lets users discover and search stunning visuals from Unsplash. With a clean interface, users can explore a curated collection of high-quality images. Built with HTML, CSS, and JavaScript, ImageExplore offers an immersive visual experience.",
+		"image": "/assets/images/projects/Visual-Explorer.png",
+		"url": "https://github.com/Thejasbshetty/visual-explorer"
 	}
 ]
